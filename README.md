@@ -34,6 +34,9 @@ _
 > QQ群：`655249600`
 
 
+<br />
+<br />
+
 简介
 ----
 
@@ -52,6 +55,8 @@ Akaxin 是一款开源免费的私有聊天软件，可以部署在任意服务�
   <img align="center" src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/5f/56/82/5f56825f-5a1d-751a-76ee-e4af3337133c/pr_source.png/0x0ss.jpg" width="200"  /> &nbsp; <img align="center" src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/0a/13/7f/0a137f45-a89e-57d6-3135-5c72b219b28d/pr_source.png/0x0ss.jpg" width="200"  /> &nbsp; <img align="center" src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/45/ec/0a/45ec0a96-6683-049e-139b-f11aaea306c8/pr_source.png/0x0ss.jpg" width="200"  /> &nbsp;
 </p>
 
+<br />
+<br />
 
 一、快速体验
 ----
@@ -88,6 +93,10 @@ Akaxin 是一款开源免费的私有聊天软件，可以部署在任意服务�
 > **站点注册方式默认为匿名，进入站点后，请根据情况第一时间修改为 实名 或者 开启邀请码，防止恶意用户进入**
 
 
+<br />
+<br />
+
+
 二、源码编译安装
 ----
 
@@ -99,6 +108,9 @@ sh build.sh
 
 // Windows 环境，请直接使用 mvn 进行编译即可。
 ```
+
+<br />
+<br />
 
 三、扩展开发
 ----
@@ -122,7 +134,8 @@ Akaxin 具有灵活、强大的扩展机制 `(“管理平台” 就是一个扩
 
 > 大家可以去 demo.akaxin.com 体验。
 
-
+<br />
+<br />
 
 
 四、技术贡献者
